@@ -1,0 +1,27 @@
+.up{
+    position: relative;
+    top: -100px;
+}
+.delete-button1{
+    position: relative;
+    top: 20px;
+    /* color: ; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    right: 20px;
+}
+.delete-button1 button{
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.delete-button1 button i{
+    color: red;
+}
+.cenimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

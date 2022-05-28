@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "62877f998c920ebca3106f41"
+  },
+  "name": "Madhur",
+  "email": "madhurgera2@gmail.com",
+  "address": "308 ,8Marla Colony, Patel nagar, Hisar",
+  "username": "Madhur",
+  "password": "madhur22",
+  "phonenumber": {
+    "$numberLong": "9729692380"
+  },
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653047193993"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653047193993"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6287ef1257243ea0676600c5"
+  },
+  "name": "Khushi",
+  "email": "khushigera2@gmail.com",
+  "address": "308 ,8Marla Colony, Patel nagar, Hisar",
+  "username": "Khushi",
+  "password": "123456",
+  "phonenumber": {
+    "$numberLong": "9416589999"
+  },
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653075730083"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653075730083"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628882b98534c041a8647eef"
+  },
+  "name": "Renu",
+  "email": "renu@gmail.com",
+  "address": "308 ,8Marla Colony, Patel nagar, Hisar",
+  "username": "renu",
+  "password": "123456",
+  "phonenumber": {
+    "$numberLong": "9138214380"
+  },
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653113529499"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653113529499"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6288832c8534c041a8647ef2"
+  },
+  "name": "Narender",
+  "email": "narender@gmail.com",
+  "address": "308 ,8Marla Colony, Patel nagar, Hisar",
+  "username": "narender",
+  "password": "123456",
+  "phonenumber": {
+    "$numberLong": "9215889997"
+  },
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653113644724"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1653113644724"
+    }
+  },
+  "__v": 0
+}]

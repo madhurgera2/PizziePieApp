@@ -1,0 +1,75 @@
+.pizzas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 80px;
+    padding-top: 80px;
+    padding-right: 80px;
+    align-items: center;
+}
+.dish{
+    border: 3px solid red;
+    height: 420px;
+    width: 400px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.dish:hover{
+    transform: scale(1.05);
+    transition: 1s ease-in-out;
+}
+.dish-name{
+    text-align: center;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    margin-top: 15px;
+}
+.pizza-image{
+    height: 220px;
+    width: 350px;
+}
+.imagecen{
+    display: flex;
+    justify-content: center;
+}
+.var-qty{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+}
+.selection{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 5px; */
+}
+.price-add{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    font-family: 'Lora', serif;
+}
+
+.price{
+    font-weight: bold;
+    font-size: 25px;
+}
+.addtocart{
+    height: 40px;
+    width: 120px;
+    position: relative;
+    right: -10px;
+    background-color: rgb(244, 83, 83);
+    border: none;
+    border-radius: 10px;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+}
+select{
+    width: 120px;
+    height: 30px;
+    font-family: 'Lora', serif;
+}
