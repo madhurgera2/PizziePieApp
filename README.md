@@ -7,7 +7,7 @@ payment and see all his previous orders
 • Payment Gateway Integration through Stripe
 • Tech Stack: HTML,CSS,JS,REACTJS,NODEJS,MONGODB,REST API
 
-We need to type /admin in the url box
+We need to type "/admin" in the url box
 If the login user is admin then it will redirect to admin screen and he/she can perform admin functions
 
 To get login credentials of admin mailme @ madhurgera2@gmail.com
